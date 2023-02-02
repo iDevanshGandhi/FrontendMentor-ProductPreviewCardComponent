@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap');
+
+body {
+    background-color: rgb(255, 241, 232);
+    /* Cream: hsl(30, 38%, 92%) */
+}
+
+.container {
+    background-color: white;
+    margin: 130px auto;
+    height: 340px;
+    width: 452px;
+    border-radius: 2.6%;
+}
+
+.container img {
+    height: 340px;
+    width: auto;
+    border-radius: 2.6% 0 0 2.6%;
+}
+
+.container h4 {
+    font-family: 'Montserrat';
+    font-weight: lighter;
+    margin-left: 246px;
+    margin-top: -320px;
+    font-size: 11px;
+    text-align: left;
+    color: rgb(100, 100, 100);
+}
+
+.text-material h2 {
+    font-family: 'Fraunces';
+    margin-left: 246px;
+    margin-top: -20px;
+    text-align: left;
+    color: rgb(1, 32, 1);
+}
+
+.text-material p {
+    font-family: 'Montserrat';
+    margin-left: 246px;
+    font-size: 11px;
+    text-align: left;
+    color: rgb(100, 100, 100);
+}
+
+.text-material h1 {
+    font-family: 'Fraunces';
+    margin-left: 248px;
+    font-size: 28px;
+    text-align: left;
+    color: rgb(3, 134, 3);
+}
+
+.text-material h6 {
+    font-family: 'Montserrat';
+    margin-left: 280px;
+    font-size: 10px;
+    text-align: left;
+    color: rgb(100, 100, 100);
+}
+
+.btn {
+    /* margin-top: 0px; */
+    font-family: 'Montserrat';
+    font-weight: 550;
+    text-align: center;
+    margin-left: 253.5px;
+    color: white;
+    width: 170px;
+    height: 35px;
+    background-color: rgb(3, 134, 3);
+    border: none;
+    border-radius: 6px;
+}
+
+.btn:hover {
+    background-color: rgb(0, 78, 0);
+    font-family: 'Montserrat';
+    font-weight: 550;
+    text-align: center;
+    color: white;
+}
+
+
+
